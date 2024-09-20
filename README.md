@@ -1,4 +1,4 @@
-# E-commerce Website
+# E-commerce Website (ECOMZY)
 
 This is a simple e-commerce web application built with React and Redux. It allows users to log in, log out, add items to the cart, delete items from the cart, and view the total price of the items in the cart.
 
